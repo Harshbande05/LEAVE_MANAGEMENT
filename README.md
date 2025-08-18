@@ -23,14 +23,13 @@ This project is designed primarily for **academic and learning purposes**, but i
 
 * **Backend Framework:** Django (with Django REST Framework)
 * **Frontend Support:** Django Templates, Crispy Forms, Bootstrap4
-* **Database:** MySQL / SQLite
+* **Database:** SQLite
 * **Authentication:** Django Allauth (OAuth, social login support)
 * **Caching & Messaging:** Redis, Django Channels (for real-time features)
 * **File Handling & Media:** Pillow, Easy Thumbnails
 * **Search & Indexing:** Elasticsearch, Whoosh, Django Haystack
 * **PDF & Reports:** WeasyPrint, ReportLab, CairoSVG
 * **APIs & Data Handling:** Requests, Pandas, Numpy
-* **Others:** BeautifulSoup4 (web scraping), Tweepy (Twitter API), Phonenumbers
 
 
 ## 🎯 Future Enhancements
@@ -38,5 +37,5 @@ This project is designed primarily for **academic and learning purposes**, but i
 * 📌 Add role-based access (Employee, Manager, HR)
 * 📌 Email/SMS notifications for leave approval or rejection
 * 📌 Advanced leave balance and reporting system
-* 📌 Web-based UI with React/Angular frontend
-* 📌 Integration with payroll system
+* 📌 Web-based UI with React frontend
+  
