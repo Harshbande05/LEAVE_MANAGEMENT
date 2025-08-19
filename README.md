@@ -32,10 +32,19 @@ This project is designed primarily for **academic and learning purposes**, but i
 * **APIs & Data Handling:** Requests, Pandas, Numpy
 
 
-## 🎯 Future Enhancements
+## 🎯 Future Enhancements---->
 
 * 📌 Add role-based access (Employee, Manager, HR)
 * 📌 Email/SMS notifications for leave approval or rejection
 * 📌 Advanced leave balance and reporting system
 * 📌 Web-based UI with React frontend
+
+* Submitted by -
+* Harsh Avinash Bande
+* Sumit Shukla
+* Rutuja Rajendra Kale
+* Bibash Tandon
+* Aditya Gupta
+
+* Thank You!!!
   
